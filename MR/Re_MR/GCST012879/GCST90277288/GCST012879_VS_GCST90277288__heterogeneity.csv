@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"RTvsF8","0IzSjw","GCST012879","GCST90277288","MR Egger",12.5112103779892,10,0.252298064614557
+"RTvsF8","0IzSjw","GCST012879","GCST90277288","Inverse variance weighted",14.5878065839271,11,0.202155465003404

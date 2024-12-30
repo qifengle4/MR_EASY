@@ -1,0 +1,2 @@
+gene_ref.zip filter=lfs diff=lfs merge=lfs -text
+GWAS_Data.zip filter=lfs diff=lfs merge=lfs -text

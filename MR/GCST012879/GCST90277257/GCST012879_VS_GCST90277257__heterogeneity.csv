@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"umulca","fvqlRI","GCST012879","GCST90277257","MR Egger",16.7447415427471,16,0.402297745117386
+"umulca","fvqlRI","GCST012879","GCST90277257","Inverse variance weighted",17.1291879279254,17,0.445647319799484

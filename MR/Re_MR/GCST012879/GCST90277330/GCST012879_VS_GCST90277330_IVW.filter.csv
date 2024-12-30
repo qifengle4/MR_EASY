@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval","lo_ci","up_ci","or","or_lci95","or_uci95"
+"mXzmYb","0Lfo1A","GCST012879","GCST90277330","Inverse variance weighted",11,0.203806403706882,0.0343687726589632,3.02957128194574e-09,0.136443609295314,0.271169198118449,1.2260607696585,1.14619024147792,1.31149695442992
